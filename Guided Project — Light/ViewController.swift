@@ -19,11 +19,7 @@ class ViewController: UIViewController {
     }
     
     func updateView() {
-        if isLightOn {
-            view.backgroundColor = .white
-        } else {
-            view.backgroundColor = .black
-        }
+        view.backgroundColor = isLightOn ? .white : .black
     }
     
     override func viewDidLoad() {
