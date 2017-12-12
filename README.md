@@ -1,13 +1,14 @@
 # Guided-Project-Light
 
-Light project from App Development with Swift curriculum
+Enhanced "Guided Project — Light" from Apple App Development with Swift [curriculum](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996?l=en&mt=11)
 
-YouTube video on how to build this project (in Russian):
+YouTube video on how to build the first working part of this project (in Russian language):
 
-https://youtu.be/9irNCdS__n4
+[![Guided Project Light](http://img.youtube.com/vi/9irNCdS__n4/0.jpg)](http://www.youtube.com/watch?v=9irNCdS__n4)
 
-Учебный проект «Фонарик» курса App Development with Swift
 
-Ссылка на видео создания:
+Расширенная версия учебного проекта «Фонарик» [курса](https://itunes.apple.com/ru/book/app-development-with-swift/id1219117996?l=en&mt=11) Apple «Разработка приложений на языке Swift»
 
-https://youtu.be/9irNCdS__n4
+Видео создания рабочего прототипа этого поекта:
+
+[![Guided Project Light](http://img.youtube.com/vi/9irNCdS__n4/0.jpg)](http://www.youtube.com/watch?v=9irNCdS__n4)
